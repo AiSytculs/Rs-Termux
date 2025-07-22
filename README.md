@@ -23,7 +23,7 @@ termux-setup-storage
 устоновка через Git.hud
 ```bash
 pkg update && pkg install git
-git clone 
-cd 
+git clone https://github.com/AiSytculs/Rs-Termux.git
+cd AiSytculs
 bash install.sh
 ```
