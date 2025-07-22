@@ -20,6 +20,8 @@ pkg update && pkg install mpv
 ```bash 
 termux-setup-storage
 ```
+![Pieyer](pleayr.png)
+
 Установка через Git. 
 ```bash
 pkg update && pkg install git
